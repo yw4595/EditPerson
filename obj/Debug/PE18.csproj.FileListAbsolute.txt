@@ -1,0 +1,11 @@
+C:\Users\Wiz\Desktop\IGME 201\PE18\bin\Debug\PE18.exe.config
+C:\Users\Wiz\Desktop\IGME 201\PE18\bin\Debug\PE18.exe
+C:\Users\Wiz\Desktop\IGME 201\PE18\bin\Debug\PE18.pdb
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.Form1.resources
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.exe
+C:\Users\Wiz\Desktop\IGME 201\PE18\obj\Debug\PE18.pdb
